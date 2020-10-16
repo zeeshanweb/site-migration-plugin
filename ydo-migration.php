@@ -19,7 +19,7 @@ if( !defined( 'YDO_PLUGIN_DIR' ) ) {
 if( !defined( 'YDO_PLUGIN_FILE' ) ) {
    define( 'YDO_PLUGIN_FILE', __FILE__ );
 }
-define( 'GIT_USER_NAME' , 'ydodev' );
+define( 'GIT_USER_NAME' , 'ghhghggh' );
 define( 'GIT_REPO' , 'YDO-Migration' );
 define( 'GIT_TOKEN' , 'dfgd' );
 define( 'YDO_PLUGIN_URL' , plugin_dir_url( __FILE__ ) );
