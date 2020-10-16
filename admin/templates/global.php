@@ -2,7 +2,7 @@
 
 	<header>
 
-	<a href="https://xyz.com/"><img src="<?php echo WP_PLUGIN_URL.'/ydo-migration/assets/img/logo-YDO-2018-300.png'; ?>" width="280px" /></a>
+	<a href="https://xyz.com/"><img src="<?php echo WP_PLUGIN_URL.'/ydo-migration/assets/img/test.png'; ?>" width="280px" /></a>
 
   <p class="poweredBy u-pull-right"><a href=""><img src="" width="140px"/></a></p>
 
